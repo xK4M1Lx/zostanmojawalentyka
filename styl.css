@@ -1,0 +1,41 @@
+html{
+    background-image: url(Rozowe-Serduszka.jpg);
+ 
+}
+
+#box{
+
+    text-align: center;
+    color:rgb(168, 101, 127);
+    font-size: 200%;
+
+    
+    display:flex;
+    justify-content: center;
+}
+img{width: 300px;
+    margin-top: 2cm;
+border-style:ridge ;
+border-color: rgb(129, 76, 103);
+border-width: 5px;
+    
+
+}
+
+button{
+    color: rgb(107, 28, 68);
+    background-color: hotpink;
+    border-color: hotpink;
+    width: 200px;
+    height: 100px;
+    font-size: larger;
+    position:absolute;
+
+    left:44.5%;
+
+}
+
+#nie{
+ 
+    position:absolute;
+}
